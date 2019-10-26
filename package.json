@@ -1,0 +1,24 @@
+{
+  "name": "@takamoso/satori",
+  "version": "0.0.1",
+  "description": "Browser compatibility data by caiuse and browser-compat-data.",
+  "keywords": [
+    "css",
+    "js",
+    "browser",
+    "compatibility",
+    "compat",
+    "data",
+    "dataset"
+  ],
+  "author": "takamoso",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takamoso/satori.git"
+  },
+  "devDependencies": {
+    "caniuse-db": "^1.0.30001004",
+    "mdn-browser-compat-data": "0.0.98"
+  }
+}
